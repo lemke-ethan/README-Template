@@ -39,7 +39,7 @@ public Egg Foo()
 1. Item one
 2. Item two 
 3. Item three
-    a. Sub-item
+    - Sub-item
 
 #### Bullet List
 - Item 
